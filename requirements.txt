@@ -1,0 +1,7 @@
+flask
+transformers
+nltk
+numpy
+tensorflow
+tensorflow-hub
+gunicorn
